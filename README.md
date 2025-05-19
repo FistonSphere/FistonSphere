@@ -1,11 +1,4 @@
 # 💫 About Me:
-Hi there! I'm a passionate full-stack web developer with a focus on Laravel and modern web architecture. I specialize in building scalable business systems — from finance and accounting dashboards to ERP platforms and real estate management tools.<br><br>🛠️ I love crafting interactive UIs using Blade, JavaScript, and TailwindCSS, while maintaining clean, secure, and database-driven backends. My projects often involve:<br><br>📊 Advanced dashboards with real-time reporting and analytics<br><br>🔒 Role-based access control and modular architecture<br><br>🧩 Scalable systems for multi-department operations (HR, Finance, Sales)<br><br>💡 Thoughtful UI/UX with modern design trends<br><br>🔌 Integration of third-party tools and APIs<br><br>📍 Currently building next-gen platforms that empower teams to manage everything from goals to payroll with clarity and style.<br><br>Let’s connect and build something amazing!
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiston_sano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fiston-sano) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sano_fiston) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SanoFiston) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanofiston04@gmail.com) 
-<h2 align="left">Hi 👋! My name is Fiston SANO and I'm a a passionate full-stack web developer with a focus on Laravel and modern web architecture, from finance and accounting dashboards to ERP platforms and real estate management tools.</h2>
-
 ###
 
 <div align="center">
@@ -14,6 +7,14 @@ Hi there! I'm a passionate full-stack web developer with a focus on Laravel and 
 </div>
 
 ###
+<br><br>🛠️ I love crafting interactive UIs using Blade, JavaScript, and TailwindCSS, while maintaining clean, secure, and database-driven backends. My projects often involve:<br><br>📊 Advanced dashboards with real-time reporting and analytics<br><br>🔒 Role-based access control and modular architecture<br><br>🧩 Scalable systems for multi-department operations (HR, Finance, Sales)<br><br>💡 Thoughtful UI/UX with modern design trends<br><br>🔌 Integration of third-party tools and APIs<br><br>📍 Currently building next-gen platforms that empower teams to manage everything from goals to payroll with clarity and style.<br><br>Let’s connect and build something amazing!
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiston_sano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fiston-sano) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sano_fiston) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SanoFiston) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanofiston04@gmail.com) 
+<h2 align="left">Hi 👋! My name is Fiston SANO and I'm a a passionate full-stack web developer with a focus on Laravel and modern web architecture, from finance and accounting dashboards to ERP platforms and real estate management tools.</h2>
+
+
 
 <img align="right" height="150" src="https://selfmadewebdesigner.com/wp-content/uploads/2022/01/the-best-way-to-learn-web-development-in-2022-without-getting-stuck.jpg"  />
 
