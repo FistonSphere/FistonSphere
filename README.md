@@ -1,4 +1,11 @@
-<h1>Hi 👋, I'm Fiston SANO</h1>
+<h1>Hi! I'm Fiston SANO 👋</h1>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">💫 About Me:</h3><a id="user-content--about-me" class="anchor" aria-label="Permalink: 💫 About Me:" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="left" dir="auto"> 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2bb09bc667abfc10a249e7f8ba757a39596012a162bd53c0d4cbc31455c611d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d547265736f725277266c6162656c3d50726f66696c65253230766965777326636f6c6f723d626c7565267374796c653d666c6174"><img src="https://camo.githubusercontent.com/c2bb09bc667abfc10a249e7f8ba757a39596012a162bd53c0d4cbc31455c611d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d547265736f725277266c6162656c3d50726f66696c65253230766965777326636f6c6f723d626c7565267374796c653d666c6174" alt="FistonSphere" data-canonical-src="https://komarev.com/ghpvc/?username=FistonSphere&amp;label=Profile%20views&amp;color=blue&amp;style=flat" style="max-width: 100%;"></a> 
+</p>
+ - 📧 Reach me via email: sanofiston04@gmail.com <br>
+ - 🔭 I’m currently working on an secret app 😁 <br>
+Feel free to star this repo 🤗
 <p>passionate full-stack web developer with a focus on Laravel and modern web architecture</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
