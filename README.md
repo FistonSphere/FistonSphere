@@ -3,6 +3,7 @@
 <p align="left" dir="auto"> 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2bb09bc667abfc10a249e7f8ba757a39596012a162bd53c0d4cbc31455c611d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d547265736f725277266c6162656c3d50726f66696c65253230766965777326636f6c6f723d626c7565267374796c653d666c6174"><img src="https://camo.githubusercontent.com/c2bb09bc667abfc10a249e7f8ba757a39596012a162bd53c0d4cbc31455c611d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d547265736f725277266c6162656c3d50726f66696c65253230766965777326636f6c6f723d626c7565267374796c653d666c6174" alt="FistonSphere" data-canonical-src="https://komarev.com/ghpvc/?username=FistonSphere&amp;label=Profile%20views&amp;color=blue&amp;style=flat" style="max-width: 100%;"></a> 
 </p>
+<a href="https://wakatime.com/@018b77f8-f2c7-4d57-aa66-d13012aa127e"><img src="https://wakatime.com/badge/user/018b77f8-f2c7-4d57-aa66-d13012aa127e.svg" alt="Total time coded since Oct 28 2023" /></a>
 <p>passionate full-stack web developer with a focus on Laravel and modern web architecture</p>
  - 📧 Reach me via email: sanofiston04@gmail.com <br>
  - 🔭 I specialize in building scalable business systems — from finance and accounting dashboards to ERP platforms and real estate management tools. <br>
