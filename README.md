@@ -6,7 +6,7 @@
 <p>passionate full-stack web developer with a focus on Laravel and modern web architecture</p>
  - 📧 Reach me via email: sanofiston04@gmail.com <br>
  - 🔭 I specialize in building scalable business systems — from finance and accounting dashboards to ERP platforms and real estate management tools. <br>
-Feel free to star this repo 🤗
+Feel free to star my repos 🤗
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
