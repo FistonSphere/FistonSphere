@@ -6,6 +6,8 @@ Hi! I'm Fiston SANO 👋<br>💫 About Me:<br>passionate full-stack web develope
 </p>
 <a href="https://wakatime.com/@018b77f8-f2c7-4d57-aa66-d13012aa127e"><img src="https://wakatime.com/badge/user/018b77f8-f2c7-4d57-aa66-d13012aa127e.svg" alt="Total time coded since Oct 28 2023" /></a>
 
+🏅 Currently ranked **#28** on [committers.top](https://committers.top/rwanda_private) 🇷🇼
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiston_sano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fiston-sano) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sano_fiston) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fiston_sano) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Iamsano) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanofiston04@gmail.com) 
 
