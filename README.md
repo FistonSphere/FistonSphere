@@ -6,10 +6,12 @@ Hi! I'm Fiston SANO 👋<br>💫 About Me:<br>passionate full-stack web develope
 </p>
 <a href="https://wakatime.com/@018b77f8-f2c7-4d57-aa66-d13012aa127e"><img src="https://wakatime.com/badge/user/018b77f8-f2c7-4d57-aa66-d13012aa127e.svg" alt="Total time coded since Oct 28 2023" /></a>
 
-## 🏆 GitHub Stats – Rwanda 🇷🇼
+<p align="left">
+  <a href="https://user-badge.committers.top/rwanda_private/FistonSphere" target="_blank" rel="nofollow">
+    <img src="https://user-badge.committers.top/rwanda_private/FistonSphere.svg" alt="committers.top badge" />
+  </a>
+</p>
 
-🎖️ **Current Rank:** `#28`  
-📊 **Source:** [committers.top/rwanda_private](https://committers.top/rwanda_private)
 
 
 ## 🌐 Socials:
