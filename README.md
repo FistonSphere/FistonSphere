@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Fiston SANO 👋<br>💫 About Me:<br>passionate full-stack web developer with a focus on Laravel and modern web architecture<br> - 📧 Reach me via email: sanofiston04@gmail.com <br> - 🔭 I specialize in building scalable business systems — from finance and accounting dashboards to ERP platforms and real estate management tools.<br>Feel free to star my repos 🤗
+Hi! I'm Fiston SANO 👋<br>💫 About Me:<br>passionate full-stack web developer with a focus on Laravel and modern web architecture<br> - 📧 Reach me via email: sanofiston04@gmail.com <br> - 🔭 I specialize in building scalable business systems from finance and accounting dashboards to ERP platforms and real estate management tools.<br>Feel free to star my repos 🤗
 
 <p align="left">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2bb09bc667abfc10a249e7f8ba757a39596012a162bd53c0d4cbc31455c611d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d547265736f725277266c6162656c3d50726f66696c65253230766965777326636f6c6f723d626c7565267374796c653d666c6174">
