@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Fiston SANO 👋<br>💫 About Me:<br>passionate full-stack web developer with a focus on Laravel and modern web architecture<br> - 📧 Reach me via email: sanofiston04@gmail.com <br> - 🔭 I specialize in building scalable business systems from finance and accounting dashboards to ERP platforms and real estate management tools.<br>Feel free to star my repos 🤗
+Hi! I'm Fiston SANO 👋<br>💫 About Me:<br>passionate full-stack web developer with a focus on modern web architecture<br> - 📧 Reach me via email: sanofiston04@gmail.com <br>Feel free to star my repos 🤗
 
 <p align="left">
   
